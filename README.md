@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrRozzers, but my friends call me Roz.
+- 
+- 👀 I’m interested in building my developer skills
+- 🌱 I’m currently learning Python, SQL and  data analytics
+- 📫 How to reach me TBD
